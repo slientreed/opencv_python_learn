@@ -8,7 +8,7 @@ practice opencv with python
 
 - [x] 3. 核心操作 
 
-- [x] IV OpenCV 中的图像处理（一）   -(2019_05_14)
+- [x] IV OpenCV 中的图像处理（一）   _2019.05.14
 
 - [ ] IV OpenCV 中的图像处理（二）
 
