@@ -10,11 +10,11 @@ practice opencv with python
 
 - [x] IV OpenCV 中的图像处理（一）   _2019.05.14
 
-- [ ] IV OpenCV 中的图像处理（二）
+- [x] IV OpenCV 中的图像处理（二）
 
-- [ ] IV OpenCV 中的图像处理（三）
+- [x] IV OpenCV 中的图像处理（三）  2019.05.30
 
-- [ ] IV OpenCV 中的图像处理（四）
+- [x] IV OpenCV 中的图像处理（四）  2019.05.31
 
 - [ ] IV OpenCV 中的图像处理（五）
 
