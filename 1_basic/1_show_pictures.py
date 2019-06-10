@@ -22,3 +22,4 @@ elif k == ord('s'): # s键按下保存并退出, ord()返回字符串对应的as
 plt.imshow(img, cmap='gray', interpolation='bicubic')
 plt.xticks([]),plt.yticks([])  # hide x,y tric value
 plt.show()
+
