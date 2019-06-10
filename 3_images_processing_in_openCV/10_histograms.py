@@ -52,8 +52,15 @@ plt.xlim([0,256])
 plt.show()
 '''
 
-
 # 3. 直方图均衡化
 # 把像素直方图横向拉伸，使得灰度值更加均衡
 
-
+hist,bins = np.histogram(img.flatten(),256,[0,256])
+# 计算累计分布
+cdf = hist.cumsum()
+cdf_normalized = cdf * hist.max() / cdf.max()
+plt.plot(cdf_normalized,color='b')
+plt.hist(img.flatten(),256,[0,256],color='r')
+plt.xlim([0,256])
+plt.legend(('cdf','histogram'),loc='upper left')
+plt.show()
