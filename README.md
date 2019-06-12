@@ -18,7 +18,7 @@ practice opencv with python
 
 - [x] IV OpenCV 中的图像处理（五）  2019.06.10
 
-- [x] IV OpenCV 中的图像处理（六）  2019.06.11
+- [x] IV OpenCV 中的图像处理（六）  2019.06.12
 
 - [ ] V 图像特征提取与描述(一) 
 
